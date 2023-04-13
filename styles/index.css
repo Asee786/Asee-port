@@ -1,0 +1,442 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 233.8rem;
+}.index-Xse {
+  width: 100%;
+  height: 268.8rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(179.99deg, #58839b 0.01%, rgba(147, 123, 214, 0.8399999738) 27.78%, rgba(212, 122, 227, 0.520563364) 57.77%, rgba(221, 95, 141, 0.3199999928) 84.99%, rgba(165, 219, 96, 0.3400000036) 106.65%);
+}
+.index-Xse .auto-group-ctk8-qNY {
+  width: 144.4rem;
+  height: 47.7rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 7.1rem;
+  display: flex;
+  align-items: center;
+}
+.index-Xse .auto-group-ctk8-qNY .images-1-6Bz {
+  width: 41.6rem;
+  height: 47.7rem;
+  position: relative;
+  background-size: 148.798% 129.769%;
+  background-position: -10.7rem -10.5rem;
+  background-image: url('../assets/images-1.png');
+  border-radius: 33.8rem;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-ctk8-qNY .auto-group-b3wy-Z5a {
+  box-sizing: border-box;
+  padding: 5rem 0rem 1.4rem 17.7rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-ctk8-qNY .auto-group-b3wy-Z5a .auto-group-njkk-4Y8 {
+  margin: 0rem 0rem 20.6rem 10.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-ctk8-qNY .auto-group-b3wy-Z5a .auto-group-njkk-4Y8 .aseelah-sj-nyv {
+  margin-bottom: 2.5rem;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.28;
+  color: #ffffff;
+  font-family: Lora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-ctk8-qNY .auto-group-b3wy-Z5a .auto-group-njkk-4Y8 .student-web-graphic-designer-tGG {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-ctk8-qNY .auto-group-b3wy-Z5a .line-1-yoW {
+  width: 0.3rem;
+  height: 0.5rem;
+  background-color: #fcf2f2;
+  flex-shrink: 0;
+}
+.index-Xse .mdi-account-hjW {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 174.5rem;
+  top: 148.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.index-Xse .auto-group-nvny-d7N {
+  width: 52.2333rem;
+  height: 10rem;
+  position: absolute;
+  left: 72.3667rem;
+  top: 58.2rem;
+  display: flex;
+  align-items: center;
+}
+.index-Xse .auto-group-nvny-d7N .mdi-account-wtk {
+  margin: 0rem 7.867rem 0rem 0rem;
+  width: 6.6667rem;
+  height: 6.6667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-nvny-d7N .auto-group-vaet-s1i {
+  width: 37.7rem;
+  height: 100%;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #7e7e9b;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-cfwe-9E8 {
+  width: 207.4rem;
+  height: 67.7667rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 71.4rem;
+  display: flex;
+  align-items: flex-end;
+}
+.index-Xse .auto-group-cfwe-9E8 .auto-group-bfey-d9J {
+  margin-right: 1.0667rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-cfwe-9E8 .auto-group-bfey-d9J .ic-baseline-phone-iphone-mWQ {
+  margin: 0rem 0.35rem 12.417rem 0rem;
+  width: 5.4167rem;
+  height: 9.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-cfwe-9E8 .auto-group-bfey-d9J .vector-spL {
+  margin-bottom: 10.0667rem;
+  width: 8.3333rem;
+  height: 6.6667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-cfwe-9E8 .auto-group-bfey-d9J .ic-baseline-location-on-pUg {
+  margin-right: 0.3333rem;
+  width: 5.8333rem;
+  height: 8.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-cfwe-9E8 .auto-group-hw1a-KwE {
+  margin: 0rem 25.5rem 0.567rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-cfwe-9E8 .auto-group-hw1a-KwE .auto-group-mqck-RzG {
+  margin: 0rem 0rem 12.2rem 2.4rem;
+  width: 24.4rem;
+  height: 11.5rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8dad;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-cfwe-9E8 .auto-group-hw1a-KwE .item-91-72345-09865-Dv8 {
+  margin-bottom: 12.6rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-cfwe-9E8 .auto-group-hw1a-KwE .abc123gmailcom-Vck {
+  margin: 0rem 0rem 13.7rem 1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-cfwe-9E8 .auto-group-hw1a-KwE .chennai-india-1LC {
+  margin-left: 1.4rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-cfwe-9E8 .i-am-a-technology-student-at-crescent-institute-of-science-and-technology-i-am-a-fledgling-engineer-who-is-passionate-about-web-and-graphic-design-i-am-also-eager-to-learn-new-skills-XpL {
+  margin-bottom: 2.9667rem;
+  max-width: 132.9rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-iqwg-mCt {
+  width: 183.8rem;
+  height: 19.1rem;
+  position: absolute;
+  left: 17.2rem;
+  top: 159.7rem;
+  display: flex;
+  align-items: center;
+}
+.index-Xse .auto-group-iqwg-mCt .auto-group-wshr-gqe {
+  margin: 9.3rem 43.1rem 0rem 0rem;
+  width: 36.3rem;
+  height: 9.8rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #bb8cb3;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-iqwg-mCt .auto-group-sq8t-k4p {
+  margin: 0rem 47.7rem 7.8rem 0rem;
+  width: 46.7rem;
+  height: 11.3rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #af89c1;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-iqwg-mCt .mi-email-zjr {
+  margin: 4.5rem 0rem 4.6rem 0rem;
+  width: 10rem;
+  height: calc(100% - 9.1rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-grpg-iQx {
+  width: 127.1375rem;
+  height: 13.8625rem;
+  position: absolute;
+  left: 6.6625rem;
+  top: 187.9375rem;
+  display: flex;
+  align-items: center;
+}
+.index-Xse .auto-group-grpg-iQx .ph-book-fill-R4U {
+  margin: 0rem 7.963rem 5.738rem 0rem;
+  width: 6.875rem;
+  height: 8.125rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-grpg-iQx .reading-jL4 {
+  margin: 0rem 39.1rem 5.538rem 0rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-grpg-iQx .ellipse-2-r9n {
+  margin: 7.263rem 11.2rem 0rem 0rem;
+  width: 5rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-grpg-iQx .graphic-design-ARN {
+  margin-top: 7.4625rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-an2l-VyS {
+  width: 113.9rem;
+  height: 10rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 207rem;
+  display: flex;
+  align-items: center;
+}
+.index-Xse .auto-group-an2l-VyS .streamline-food-kitchenware-chef-toque-hat-cook-gear-chef-cooking-nutrition-tools-clothes-hat-clothing-food-bma {
+  margin-right: 5.7rem;
+  width: 10rem;
+  height: 10rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-an2l-VyS .cooking-JR6 {
+  margin: 0.2rem 39.1rem 0rem 0rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-an2l-VyS .ellipse-3-2bz {
+  margin-right: 11.2rem;
+  width: 5rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-an2l-VyS .ui-design-Zrp {
+  margin-top: 0.2rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-kdyk-VkU {
+  width: 37.2875rem;
+  height: 9.375rem;
+  position: absolute;
+  left: 6.5125rem;
+  top: 230.1125rem;
+  display: flex;
+  align-items: center;
+}
+.index-Xse .auto-group-kdyk-VkU .emojione-monotone-shopping-bags-2Ec {
+  margin-right: 5.6125rem;
+  width: 9.375rem;
+  height: 9.375rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-kdyk-VkU .shopping-kRW {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-mkme-VP6 {
+  width: 44.5rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 80.7rem;
+  top: 180.9rem;
+  display: flex;
+  align-items: center;
+}
+.index-Xse .auto-group-mkme-VP6 .ellipse-1-Qkx {
+  margin: 0rem 10.9rem 0.2rem 0rem;
+  width: 5rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-mkme-VP6 .web-design-jYL {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-kuba-fwn {
+  width: 41.6rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 80.7rem;
+  top: 220.9rem;
+  display: flex;
+  align-items: flex-end;
+}
+.index-Xse .auto-group-kuba-fwn .ellipse-4-zz4 {
+  margin: 0rem 10.9rem 0.3rem 0rem;
+  width: 5rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-Xse .auto-group-kuba-fwn .photoshop-84g {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #000000;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
